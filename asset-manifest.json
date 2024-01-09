@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/biodata/static/css/main.055c6852.css",
+    "main.js": "/biodata/static/js/main.187be9bf.js",
+    "static/media/logo.png": "/biodata/static/media/logo.e140540ca0b3fad9de64.png",
+    "index.html": "/biodata/index.html",
+    "main.055c6852.css.map": "/biodata/static/css/main.055c6852.css.map",
+    "main.187be9bf.js.map": "/biodata/static/js/main.187be9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055c6852.css",
+    "static/js/main.187be9bf.js"
+  ]
+}
